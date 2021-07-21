@@ -1,0 +1,9 @@
+# conda create -n pointnet python=3.6
+# activate pointnet
+# conda install jupyter
+# conda install pytorch torchvision torchaudio cudatoolkit=11.1 -c pytorch -c conda-forge
+# conda install nb_conda_kernels
+# pip install ipykernel
+# python -m ipykernel install --user --name pointnet --display-name "pointnet"
+# pip install tqdm
+# pip install h5py
